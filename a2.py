@@ -1,4 +1,4 @@
-# Written By: Afra Azreen (Student ID: 40234047) - Submitted 12/03/24
+# Written By: Afra Azreen
 # Importing the modules which are required. 
 # Note that rather than modifying the sampleScraper module, I have extracted elements of the code which are necessary for my program. 
 import requests
